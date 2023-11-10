@@ -12,4 +12,4 @@ Un autre aspect important de la méthode **GZDD** est l'accent mis sur les tests
 
 En adoptant la méthode **GZDD**, les équipes de développement peuvent exploiter pleinement leur créativité tout en maintenant une structure solide grâce à une documentation complète et à des tests rigoureux. Cette approche favorise l'innovation tout en assurant la qualité et la stabilité du code.
 
- "Be you, be proud of you because you can be do what we want to do" -François Hollande
+"Be you, be proud of you because you can be do what we want to do" -<sub>François Hollande</sub>
