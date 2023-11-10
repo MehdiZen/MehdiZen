@@ -1,5 +1,4 @@
-<p align="center">
-**Le GZDD**</p>
+<p align="center">Le GZDD</p>
 <p align="center">Précurseur, innovateur, pionnier, avant gardiste, Monsieur Zenati est l'inventeur du Go Zizi Driven Developpement. </p>
 
 
