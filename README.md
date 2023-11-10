@@ -11,3 +11,5 @@ Le principe fondamental du **GZDD** repose sur l'idée que la créativité et l'
 Un autre aspect important de la méthode **GZDD** est l'accent mis sur les tests. Les développeurs sont encouragés à créer des tests exhaustifs pour chaque fonctionnalité, permettant ainsi une validation continue du code tout au long du processus de développement. Cela contribue à garantir la stabilité du code et à minimiser les erreurs potentielles.
 
 En adoptant la méthode **GZDD**, les équipes de développement peuvent exploiter pleinement leur créativité tout en maintenant une structure solide grâce à une documentation complète et à des tests rigoureux. Cette approche favorise l'innovation tout en assurant la qualité et la stabilité du code.
+
+ "Be you, be proud of you because you can be do what we want to do" -François Hollande
