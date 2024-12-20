@@ -1,10 +1,10 @@
 <p align="center">Le <strong>GZDD</strong></p>
 <p align="center">
-  Précurseur, innovateur, pionnier, avant gardiste, Monsieur Zenati est l'inventeur du <strong>Go Zizi Driven Developpement</strong>. 
+  Précurseur, innovateur, pionnier, avant gardiste, Monsieur Zenati est l'inventeur du <strong>Go Z* Driven Developpement</strong>. 
 </p>
 
 
-La méthode de développement **Go Zizi**, également connue sous le nom de **GZDD**, est une approche novatrice axée sur la flexibilité et la créativité dans le processus de codage. Elle encourage les développeurs à explorer toutes les possibilités et à coder tout ce qui peut être codé, dans la mesure où cela contribue à l'objectif global du projet.
+La méthode de développement **Go Z***, également connue sous le nom de **GZDD**, est une approche novatrice axée sur la flexibilité et la créativité dans le processus de codage. Elle encourage les développeurs à explorer toutes les possibilités et à coder tout ce qui peut être codé, dans la mesure où cela contribue à l'objectif global du projet.
 
 Le principe fondamental du **GZDD** repose sur l'idée que la créativité et l'exploration sont des moteurs puissants pour l'innovation. Plutôt que de suivre strictement un plan préétabli, les développeurs sont encouragés à adopter une approche plus organique, en restant ouverts aux opportunités qui se présentent au fur et à mesure du développement.
 
