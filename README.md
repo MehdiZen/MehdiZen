@@ -1,15 +1,36 @@
-<p align="center">Le <strong>GZDD</strong></p>
-<p align="center">
-  Précurseur, innovateur, pionnier, avant gardiste, Monsieur Zenati est l'inventeur du <strong>Go Z* Driven Developpement</strong>. 
-</p>
+## Mehdi Zenati
 
+AI Software Engineer, Paris. TypeScript from the browser to the runtime.
 
-La méthode de développement **Go Z***, également connue sous le nom de **GZDD**, est une approche novatrice axée sur la flexibilité et la créativité dans le processus de codage. Elle encourage les développeurs à explorer toutes les possibilités et à coder tout ce qui peut être codé, dans la mesure où cela contribue à l'objectif global du projet.
+I build LLM-based products that reach production and stay there. Day to day that means
+agent orchestration with LangGraph, RAG and CAG pipelines (including a retrieval engine
+written without a framework, because chunking and vectorization were worth keeping under
+direct control), MCP servers, Amazon Bedrock and Vertex AI. Full-stack around it:
+Angular, Vue, Node. Rust when the app has to talk to the operating system.
 
-Le principe fondamental du **GZDD** repose sur l'idée que la créativité et l'exploration sont des moteurs puissants pour l'innovation. Plutôt que de suivre strictement un plan préétabli, les développeurs sont encouragés à adopter une approche plus organique, en restant ouverts aux opportunités qui se présentent au fur et à mesure du développement.
+I'm also the deployment referent for my entity at Devoteam AI Apps (~25 people) and the
+one application-security topics get forwarded to.
 
-Un autre aspect important de la méthode **GZDD** est l'accent mis sur les tests. Les développeurs sont encouragés à créer des tests exhaustifs pour chaque fonctionnalité, permettant ainsi une validation continue du code tout au long du processus de développement. Cela contribue à garantir la stabilité du code et à minimiser les erreurs potentielles.
+### 🔧 What's public here
 
-En adoptant la méthode **GZDD**, les équipes de développement peuvent exploiter pleinement leur créativité tout en maintenant une structure solide grâce à une documentation complète et à des tests rigoureux. Cette approche favorise l'innovation tout en assurant la qualité et la stabilité du code.
+**[monitor4me](https://github.com/MehdiZen/monitor4me)** — hardware monitoring dashboard
+for Windows. Tauri 2 shell, TypeScript UI, a Node collector polling LibreHardwareMonitor
+every 2s into InfluxDB. Z-score anomaly detection on thermal throttling, GPU clock drops
+and PSU rail instability, plus electricity cost tracking. Signed installer and
+auto-updater. The README documents what the sensors *can't* tell you as much as what
+they can (no AM5 RAM sensor, RAPL under-reads by ~7%).
 
-"Be you, be proud of you because you can be do what we want to do" -<sub>François Hollande</sub>
+Most of what I write is client code or not released yet, so this account is thinner than
+my week is. What is here, I document properly.
+
+### 📫 Elsewhere
+
+- [tisseurduweb.com](https://www.tisseurduweb.com) — portfolio, an interactive 3D scene
+  in Three.js with hand-written GLSL shaders and a satirical newspaper for a bio page
+- [malt.fr/profile/mehdizenati](https://www.malt.fr/profile/mehdizenati) — freelance,
+  website design and integration
+
+---
+
+<sub>The previous version of this file defined a software methodology named after me. It
+is still in the git history, where it belongs.</sub>
